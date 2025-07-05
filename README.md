@@ -5,7 +5,7 @@ Python 'plotly' visualization based on data from a landmark cash transfer study,
 
 A data storytelling project visualizing how various cash transfer models impacted psychological wellbeing—especially among women—in a landmark Universal Basic Income study conducted in Kenya by GiveDirectly and researched by Haushofer & Shapiro (2017).
 
-This interactive report distills academic research into a compelling, standalone HTML visualization, illustrating mental health gains across treatment arms and genders using z-score deltas and percentile translations.
+This interactive report distills academic research into a straight-forward, standalone HTML visualization, illustrating mental health gains across treatment arms and genders using z-score deltas and percentile translations.
 
 **Original Study**:  
 Haushofer & Shapiro (2017), *The Short-Term Impact of Unconditional Cash Transfers to the Poor*  
@@ -55,9 +55,9 @@ Harvard Dataverse: [https://doi.org/10.7910/DVN/M2GAZN](https://doi.org/10.7910/
 
 ---
 
-## Key Insight
+## Nota bene
 
-A z-score change of **+0.25** corresponds to an approximate shift from the **50th to the 60th percentile** in psychological wellbeing. Many transfer groups achieved even higher improvements.
+A z-score change of **+0.25** corresponds to an approximate shift from the **50th to the 60th percentile** in psychological wellbeing. Many transfer groups achieved even higher improvements in pyschological wellbeing.
 
 ---
 
