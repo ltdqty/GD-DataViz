@@ -10,10 +10,6 @@ A data storytelling project visualizing how various cash transfer models impacte
 
 This interactive report distills academic research into a straight-forward, standalone HTML visualization, illustrating mental health gains across treatment arms and genders using z-score deltas and percentile translations.
 
-**Original Data**:  
-Haushofer & Shapiro (2017), Replication Data for: The Short-Term Impact Of Unconditional Cash Transfers To The Poor: Experimental Evidence From Kenya.
-[Harvard Dataverse DOI](https://doi.org/10.7910/DVN/M2GAZN)
-
 ---
 
 ## The Visual
@@ -42,6 +38,10 @@ You can view the interactive graphic here:
 
 
 ## 📈 Methodology
+
+# Original Data
+Haushofer & Shapiro (2017), Replication Data for: The Short-Term Impact Of Unconditional Cash Transfers To The Poor: Experimental Evidence From Kenya.
+[Harvard Dataverse DOI](https://doi.org/10.7910/DVN/M2GAZN)
 
 # Data Processing steps:
 - Extracted and filtered key variables from the source dataset
