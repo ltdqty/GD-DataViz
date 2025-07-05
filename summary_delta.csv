@@ -1,0 +1,11 @@
+Group,Gender,Delta,Percentile_Gain,Delta_Display
+Spillover Control,Female,-0.0359,-1.4 pp,-0.0359
+Spillover Control,Male,0.0021,+0.1 pp,0.0021
+Small Transfer,Female,0.1425,+5.7 pp,0.1425
+Small Transfer,Male,0.3394,+13.3 pp,0.3394
+Lump Sum,Female,0.1665,+6.6 pp,0.1665
+Lump Sum,Male,0.427,+16.5 pp,0.4270
+Monthly,Female,0.1961,+7.8 pp,0.1961
+Monthly,Male,0.2816,+11.1 pp,0.2816
+Large Transfer,Female,0.2845,+11.2 pp,0.2845
+Large Transfer,Male,0.3827,+14.9 pp,0.3827
