@@ -1,5 +1,8 @@
-# GD-Data_Viz
-Python 'plotly' visualization based on data from a landmark cash transfer study, Haushofer, J., &amp; Shapiro, J. (2017). The short-term impact of unconditional cash transfers to the poor: Experimental evidence from Kenya, The Quarterly Journal of Economics.
+# GiveDirectly (GD) - Data_Viz
+This is a Python 'plotly' visualization based on data from a landmark cash transfer study: Haushofer, J., &amp; Shapiro, J. (2017). The short-term impact of unconditional cash transfers to the poor: Experimental evidence from Kenya. The Quarterly Journal of Economics.
+
+You can view the interactive graphic here:  
+**[GD_DataViz_Example.html](./GD_DataViz_Example.html)**
 
 # Cash That Heals: Unconditional Transfers & Pyschological Wellbeing
 
@@ -7,8 +10,8 @@ A data storytelling project visualizing how various cash transfer models impacte
 
 This interactive report distills academic research into a straight-forward, standalone HTML visualization, illustrating mental health gains across treatment arms and genders using z-score deltas and percentile translations.
 
-**Original Study**:  
-Haushofer & Shapiro (2017), *The Short-Term Impact of Unconditional Cash Transfers to the Poor*  
+**Original Data**:  
+Haushofer & Shapiro (2017), Replication Data for: The Short-Term Impact Of Unconditional Cash Transfers To The Poor: Experimental Evidence From Kenya.
 [Harvard Dataverse DOI](https://doi.org/10.7910/DVN/M2GAZN)
 
 ---
@@ -29,10 +32,10 @@ You can view the interactive graphic here:
 | File                    | Description                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
 | `GD_DataViz_Example.html` | Self-contained interactive Plotly graphic (no configuration needed)       |
-| `GD_Kenya_Cash_Study.ipynb` | Jupyter Notebook with development process, styling, and insight logic   |
+| `GD_Kenya_Cash_Study.ipynb` | Jupyter Notebook with development process, styling, and insights        |
 | `GD_Kenya_Cash_Study.py` | Python script for standalone HTML export                                   |
 | `summary_delta.csv`     | Cleaned summary data: delta z-scores, gender, treatment group               |
-| `UCT_FINAL_CLEAN.tab`   | Raw source data from GiveDirectly study (Haushofer & Shapiro, 2017)         |
+| `UCT_FINAL_CLEAN.tab`   | Source data from the study (Haushofer & Shapiro, 2017)                      |
 | `cover.png`             | Thumbnail preview of the chart                                              |
 | `README.md`             | Project overview and usage                                                  |
 | `data_description.md`   | Description of key variables used in the visualization                      |
@@ -40,13 +43,7 @@ You can view the interactive graphic here:
 
 ## 📈 Methodology
 
-The underlying dataset is from:
-
-**Haushofer & Shapiro (2017)**  
-*The Short-Term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya*  
-Harvard Dataverse: [https://doi.org/10.7910/DVN/M2GAZN](https://doi.org/10.7910/DVN/M2GAZN)
-
-### Processing steps:
+# Data Processing steps:
 - Extracted and filtered key variables from the source dataset
 - Key variables include the psychological wellbeing index z-scores, treatment groups, and gender
 - Computed **the change or delta** in the wellbeing index z-scores
