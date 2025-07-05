@@ -37,7 +37,7 @@ You can view the interactive graphic here:
 | `data_description.md`   | Description of key variables used in the visualization                      |
 
 
-## 📈 Methodology
+## Methodology
 
 # Original Data
 Haushofer & Shapiro (2017), Replication Data for: The Short-Term Impact Of Unconditional Cash Transfers To The Poor: Experimental Evidence From Kenya.
