@@ -191,7 +191,7 @@ def main():
                 "<span style='font-size:16px; color:#2E5E4E; font-family:Georgia; font-style:italic;'>&nbsp;&nbsp;&nbsp;"
                 "How unconditional cash shaped mental health, by gender and treatment group</span><br>"
                 "<span style='font-size:15px; color:#444444; font-family:Source Sans Pro;'>"
-                "Across all transfer types, women experienced meaningful psychological gains—underscoring cash's potential to support female mental health, even when not explicitly targeted.</span>"
+                "Across all transfer types, women experienced meaningful psychological gains. Gender was not explicitly targeted in the study, however, and men's gains were larger.</span>"
             ),
             x=0,
             xanchor='left'
